@@ -1,0 +1,4 @@
+toy_results/
+*.png
+*.csv
+__pycache__/
